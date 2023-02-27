@@ -1,6 +1,6 @@
-# Habitat6210 Code for Data Analysis
+# Code for Habitat Data Analysis
 
-This repository contains example MATLAB code for extracting and analysing the ROS bag files contained in the Habitat6210 dataset.
+This repository contains example MATLAB code for extracting and analysing the ROS bag files contained in the datasets of Robotic Monitoring of Habitats.
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ MATLAB 2022a or later and ROS Toolbox are required to run the code contained in 
 
 #### Structure of the Repository
 ```bash
-Habitat6210_Dataset_code
+Code-for-Habitat-Data-Analysis
 .
 |-- README.md
 |-- bags
